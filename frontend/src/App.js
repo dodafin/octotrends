@@ -99,7 +99,7 @@ function App() {
             rel="noreferrer"
             className="text-blue-500"
           >
-            Dominik Dabrowski
+            Dominik Dabrowski!
           </a>
         </div>
       </div>
